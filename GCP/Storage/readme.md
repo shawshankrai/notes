@@ -12,7 +12,7 @@
     * Data Store
     * Fire Store
   
-* UnStructured
+* Unstructured
   * Cloud Storage
   
 * Block Storage
